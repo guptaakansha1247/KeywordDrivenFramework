@@ -8,7 +8,6 @@
 	<classpathentry kind="lib" path="D:/jars/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="D:/jars/selenium-chrome-driver-2.0a4.jar/selenium-chrome-driver-2.0a4.jar"/>
 	<classpathentry kind="lib" path="D:/jars/org.apache.commons.io.jar/org.apache.commons.io.jar"/>
-	<classpathentry kind="lib" path="D:/jars/selenium-2.53.0/selenium-java-2.53.0"/>
-	<classpathentry kind="lib" path="D:/jars/selenium-2.53.0/selenium-java-2.53.0-srcs"/>
+	<classpathentry kind="lib" path="D:/jars/poi-ooxml-3.5-beta5.jar/poi-ooxml-3.5-beta5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
