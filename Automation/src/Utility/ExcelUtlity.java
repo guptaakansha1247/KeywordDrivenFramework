@@ -18,8 +18,7 @@ public static void setExcelFile(String Path, String SheetName){
 	    XSSFWorkbook workbook = new XSSFWorkbook(Path);
 	    XSSFSheet sheet=workbook.getSheetAt(0);*/
 	    FileInputStream ExcelFile = new FileInputStream(Path);
-	   File
-        ExcelWBook = new XSSFWorkbook(Path);
+	    ExcelWBook = new XSSFWorkbook(Path);
         ExcelWSheet = ExcelWBook.getSheetAt(0);
 	    
 	}
