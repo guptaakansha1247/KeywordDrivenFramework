@@ -12,6 +12,7 @@ public class DriverScript {
 		//This will load all the methods of the class 'ActionKeywords' in it.
                 //It will be like array of method, use the break point here and do the watch
 		method = actionKeywords.getClass().getMethods();
+		
 	}
  
 	 public static void main(String[] args) throws Exception {
